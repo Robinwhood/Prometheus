@@ -16,7 +16,7 @@
 		"home" => "Accueil",
 		"store" => "Magasin",
 		"buy_credits" => "Acheter des Crédits",
-		"raffles" => "Tombola",
+		"raffles" => "Lotterie",
 		"profile" => "Profil",
 		"support" => "Support",
 		"admin" => "Administration",
@@ -51,15 +51,15 @@
 		"non_permanent" => "Temporaire",
 
 		"select_credit" => "Selectionner Pack de Crédit",
-		"select_raffle" => "Selectionner Pack de Tombola",
+		"select_raffle" => "Selectionner Pack de Lotterie",
 		"global_packages" => "Pack Globaux",
 
 		// Raffles
 		"raffle_ticket" => "Acheter un ticket",
-		"raffle_ended" => "La tombola a pris fin, le gagnant est: ",
-		"raffle_not_compatible" => "Ce pack n'est pas compatible avec celui que vous possédez. L'entrée à la tombola vous est donc refusée.",
-		"raffle_already_own" => "Vous possédez déjà ce pack. L'entrée à la tombola vous est donc refusée.",
-		"raffle_reached_max" => "Vous avez atteint le montant maximum d'entrées de tombola. L'entrée à la tombola vous est donc refusée.",
+		"raffle_ended" => "La lotterie a pris fin, le gagnant est: ",
+		"raffle_not_compatible" => "Ce pack n'est pas compatible avec celui que vous possédez. L'entrée à la lotterie vous est donc refusée.",
+		"raffle_already_own" => "Vous possédez déjà ce pack. L'entrée à la lotterie vous est donc refusée.",
+		"raffle_reached_max" => "Vous avez atteint le montant maximum d'entrées de lotterie. L'entrée à la lotterie vous est donc refusée.",
 
 		// Support
 		"create_ticket" => "Créer billet",
@@ -89,7 +89,7 @@
 		"packages_custom_amount" => "Montant personnalisé",
 
 		"packages_not_available" => "Aucun pack n'est disponible pour ce serveur.",
-		"raffle_not_available" => "Aucun pack de tombola n'est disponible pour le moment.",
+		"raffle_not_available" => "Aucun pack de lotteire n'est disponible pour le moment.",
 		"credit_not_available" => "Aucun pack de crédit n'est disponible pour le moment.",
 
 		// Buttons
@@ -143,7 +143,7 @@
 		"categories" => "Catégories",
 		"packages_and_actions" => "Packs & actions",
 		"credit_packages" => "Pack de crédits",
-		"raffles" => "Tombola",
+		"raffles" => "Lotterie",
 		"theme_editor" => "Éditeur de thèmes",
 		"documentation" => "Documentation",
 
