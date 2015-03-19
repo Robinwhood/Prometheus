@@ -16,7 +16,7 @@
 		"home" => "Accueil",
 		"store" => "Magasin",
 		"buy_credits" => "Acheter des Crédits",
-		"raffles" => "Tombola",
+		"raffles" => "Lotterie",
 		"profile" => "Profil",
 		"support" => "Support",
 		"admin" => "Administration",
@@ -24,14 +24,14 @@
 		"sign_in" => "Se Connecter",
 
 		// Header errors and messages
-		"not_setup" => "Vous n'avez pas configuré votre panneau correctement ! <a href='admin.php?a=gen&settings'>Cliquez ici</a> [Administration ->  Paramètres généraux -> Paramètres]",
+		"not_setup" => "Vous n'avez pas configuré votre tableau de bord correctement ! <a href='admin.php?a=gen&settings'>Cliquez ici</a> [Administration ->  Paramètres généraux -> Paramètres]",
 		"header_sandbox" => "PayPal Sandbox est activé. N'utilisez le sandbox que pour les tests ! Vous pouvez le désactiver <a href='admin.php?a=gen&settings'>ici</a>",
 		"missing_action" => " Il manque une action dans un ou plusieurs pack(s)",
 		"unfinished_action" => "Vous avez une action inachevée sur la page 'Profil', <a href='profile.php'>ici</a>",
 
 		// Frontpage
 		"welcome" => "Bienvenue - Inscrivez-vous",
-		"welcome_text" => "Connectez-vous par le biais de Steam pour utiliser notre portail de dons simplifié.",
+		"welcome_text" => "Connectez-vous par le biais de Steam pour utiliser notre system de dons automatisé.",
 
 		// News
 		"news" => "News",
@@ -51,15 +51,15 @@
 		"non_permanent" => "Temporaire",
 
 		"select_credit" => "Selectionner Pack de Crédit",
-		"select_raffle" => "Selectionner Pack de Tombola",
+		"select_raffle" => "Selectionner Pack de lotterie",
 		"global_packages" => "Pack Globaux",
 
 		// Raffles
 		"raffle_ticket" => "Acheter un ticket",
-		"raffle_ended" => "La tombola a pris fin, le gagnant est: ",
-		"raffle_not_compatible" => "Ce pack n'est pas compatible avec celui que vous possédez. L'entrée à la tombola vous est donc refusée.",
-		"raffle_already_own" => "Vous possédez déjà ce pack. L'entrée à la tombola vous est donc refusée.",
-		"raffle_reached_max" => "Vous avez atteint le montant maximum d'entrées de tombola. L'entrée à la tombola vous est donc refusée.",
+		"raffle_ended" => "La lotterie a pris fin, le gagnant est: ",
+		"raffle_not_compatible" => "Ce pack n'est pas compatible avec celui que vous possédez. L'entrée à la lotterie vous est donc refusée.",
+		"raffle_already_own" => "Vous possédez déjà ce pack. L'entrée à la lotterie vous est donc refusée.",
+		"raffle_reached_max" => "Vous avez atteint le montant maximum d'entrées de lotterie. L'entrée à la lotterie vous est donc refusée.",
 
 		// Support
 		"create_ticket" => "Créer billet",
@@ -68,7 +68,7 @@
 		"create" => "Créer",
 
 		// Terms of Service
-		"tos_edited" => "Les CGU ont été édité. Veuillez accepter les <a href='tos.php'>conditions générales d'utilisation</a> avant d'acheter un paquet !",
+		"tos_edited" => "Les CGU ont été modifiés. Veuillez accepter les <a href='tos.php'>conditions générales d'utilisation</a> avant d'acheter un paquet !",
 		"tos_must_accept" => "Vous devez accepter les CGU avant d'acheter !",
 		"tos_accept" => "Accepter",
 
@@ -83,13 +83,13 @@
 		"buy_they_not_compatible" => "Ce pack n'est pas compatible avec celui qu'il possède !",
 
 		// Packages
-		"buying_someone_else" => "Vous faites des achats pour quelqu'un d'autre ?",
-		"buying_yourself" => "Vous êtes en train d'acheter pour vous-même",
-		"buying_for" => "Vous êtes en train d'acheter pour",
+		"buying_someone_else" => "Vous achetez pour quelqu'un d'autre ?",
+		"buying_yourself" => "Vous achetez pour vous-même",
+		"buying_for" => "Vous achetez pour",
 		"packages_custom_amount" => "Montant personnalisé",
 
 		"packages_not_available" => "Aucun pack n'est disponible pour ce serveur.",
-		"raffle_not_available" => "Aucun pack de tombola n'est disponible pour le moment.",
+		"raffle_not_available" => "Aucun pack de lotterie n'est disponible pour le moment.",
 		"credit_not_available" => "Aucun pack de crédit n'est disponible pour le moment.",
 
 		// Buttons
@@ -130,8 +130,8 @@
 		// Dangerous settings
 		"dangerous" => "Paramètres Dangereux",
 		"danger_cur" => "Ou bien, vous pouvez supprimer cette devise.",
-		"danger_srv" => "Ne supprimez ce serveur que si aucun pack ne lui est attribué!",
-		"danger_cat" => "Ne supprimez cette catégorie que si aucun pack ne lui est attribué!",
+		"danger_srv" => "Supprimez ce serveur que si aucun pack ne lui est attribué!",
+		"danger_cat" => "Supprimez cette catégorie que si aucun pack ne lui est attribué!",
 		"delete" => "Effacer",
 
 		// Admin nav
@@ -143,7 +143,7 @@
 		"categories" => "Catégories",
 		"packages_and_actions" => "Packs & actions",
 		"credit_packages" => "Pack de crédits",
-		"raffles" => "Tombola",
+		"raffles" => "Lotterie",
 		"theme_editor" => "Éditeur de thèmes",
 		"documentation" => "Documentation",
 
@@ -170,7 +170,7 @@
 		"cat_name" => "Nom de la Catégorie",
 
 		// Dashboard nav
-		"main_dashboard" => "Tableau de bord principal",
+		"main_dashboard" => "Tableau de bord",
 		"sale" => "Vente",
 		"transactions" => "Transactions",
 		"users" => "Utilisateurs",
